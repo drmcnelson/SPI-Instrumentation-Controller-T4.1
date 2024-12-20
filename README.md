@@ -8,3 +8,5 @@ Here you will find the gerbers, drill and place files ready for fab, plus schema
 As always, if you are building boards for your own lab, or having them made for your presonal use, these are free.   And of course, no guarantees of suitability for any purpose whatsoever.
 
 Caveat, this a new design.  I have not built it yet.  Sponshorships are welcome.
+
+![Controller_T41_3D](https://github.com/user-attachments/assets/d1f08e93-3f4a-4063-b372-cdab604c3452)
